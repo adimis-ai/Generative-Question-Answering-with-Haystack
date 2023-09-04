@@ -53,7 +53,7 @@ This repository contains a Jupyter Notebook demonstrating how to perform Generat
 1. Clone this repository:
 
    ```
-   git clone [<repository_url>](https://github.com/adimis-ai/Multiple-Document-Abstractive-Long-Form-Q-A.git)
+   git clone https://github.com/adimis-ai/Multiple-Document-Abstractive-Long-Form-Q-A.git
    ```
 
 2. Open the Jupyter Notebook in Google Colab.
